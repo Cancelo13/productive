@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "prdouctive",
   "version": "1.0.0",
   "main": "main.js",
@@ -53,3 +54,26 @@
     "lowdb": "^7.0.1"
   }
 }
+=======
+  "name": "productiveapp",
+  "version": "1.0.0",
+  "description": "Productive is a Desktop App that helps you to keep track of your work/study time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cancelo13/productive.git"
+  },
+  "author": "Cancelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cancelo13/productive/issues"
+  },
+  "homepage": "https://github.com/Cancelo13/productive#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+>>>>>>> 283673902f10d97308db34d697bb28de8f9bdaa0
